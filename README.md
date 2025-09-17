@@ -4,5 +4,5 @@ practice using git and GitHub
 
 
 
-edited the readme
+edited the readme and entered pull request
 
